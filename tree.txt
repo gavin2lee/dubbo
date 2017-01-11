@@ -1,0 +1,2367 @@
+[INFO] Scanning for projects...
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.2.3.RELEASE/spring-framework-bom-4.2.3.RELEASE.pom
+2/5 KB   5/5 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.2.3.RELEASE/spring-framework-bom-4.2.3.RELEASE.pom (5 KB at 21.5 KB/sec)
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:hessian-lite:jar:3.2.1-fixed-2
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-container-api:[unknown-version], /home/gavin/Dev/GitRepo/dubbo/dubbo-container/dubbo-container-api/pom.xml, line 44, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-container:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-remoting:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-rpc:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-filter:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-registry:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-monitor:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-config:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ com.alibaba:dubbo:[unknown-version], /home/gavin/Dev/GitRepo/dubbo/dubbo/pom.xml, line 264, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-javadoc-plugin is missing. @ com.alibaba:dubbo:[unknown-version], /home/gavin/Dev/GitRepo/dubbo/dubbo/pom.xml, line 273, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-registry-simple:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-monitor-simple:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-simple:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-admin:war:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-demo-api:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-demo-provider:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-demo-consumer:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-demo:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-test-benchmark:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.alibaba:dubbo-test-benchmark:[unknown-version], /home/gavin/Dev/GitRepo/dubbo/dubbo-test/dubbo-test-benchmark/pom.xml, line 60, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-test-benchmark:[unknown-version], /home/gavin/Dev/GitRepo/dubbo/dubbo-test/dubbo-test-benchmark/pom.xml, line 40, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-test-compatibility:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-test-integration:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-test-examples:jar:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-test:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ com.alibaba:dubbo-parent:2.5.4-SNAPSHOT, /home/gavin/Dev/GitRepo/dubbo/pom.xml, line 451, column 12
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.alibaba:dubbo-parent:pom:2.5.4-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ line 381, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ line 367, column 12
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-deploy-plugin is missing. @ line 451, column 12
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] dubbo-parent
+[INFO] Hessian Lite(Alibaba embed version)
+[INFO] dubbo-common
+[INFO] dubbo-container
+[INFO] dubbo-container-api
+[INFO] dubbo-container-spring
+[INFO] dubbo-container-jetty
+[INFO] dubbo-container-log4j
+[INFO] dubbo-container-logback
+[INFO] dubbo-remoting
+[INFO] dubbo-remoting-api
+[INFO] dubbo-remoting-netty
+[INFO] dubbo-remoting-mina
+[INFO] dubbo-remoting-grizzly
+[INFO] dubbo-remoting-p2p
+[INFO] dubbo-remoting-http
+[INFO] dubbo-remoting-zookeeper
+[INFO] dubbo-rpc
+[INFO] dubbo-rpc-api
+[INFO] dubbo-rpc-default
+[INFO] dubbo-rpc-injvm
+[INFO] dubbo-rpc-rmi
+[INFO] dubbo-rpc-hessian
+[INFO] dubbo-rpc-http
+[INFO] dubbo-rpc-webservice
+[INFO] dubbo-cluster
+[INFO] dubbo-registry
+[INFO] dubbo-registry-api
+[INFO] dubbo-monitor
+[INFO] dubbo-monitor-api
+[INFO] dubbo-filter
+[INFO] dubbo-filter-validation
+[INFO] dubbo-filter-cache
+[INFO] dubbo-registry-default
+[INFO] dubbo-monitor-default
+[INFO] dubbo-registry-multicast
+[INFO] dubbo-config
+[INFO] dubbo-config-api
+[INFO] dubbo-config-spring
+[INFO] dubbo-rpc-thrift
+[INFO] dubbo-rpc-memcached
+[INFO] dubbo-rpc-redis
+[INFO] dubbo-registry-zookeeper
+[INFO] dubbo-registry-redis
+[INFO] dubbo
+[INFO] dubbo-simple
+[INFO] dubbo-registry-simple
+[INFO] dubbo-monitor-simple
+[INFO] dubbo-admin
+[INFO] dubbo-demo
+[INFO] dubbo-demo-api
+[INFO] dubbo-demo-provider
+[INFO] dubbo-demo-consumer
+[INFO] dubbo-test
+[INFO] dubbo-test-benchmark
+[INFO] dubbo-test-compatibility
+[INFO] dubbo-test-integration
+[INFO] dubbo-test-examples
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-parent 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-parent ---
+[INFO] com.alibaba:dubbo-parent:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Hessian Lite(Alibaba embed version) 3.2.1-fixed-2
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ hessian-lite ---
+[INFO] com.alibaba:hessian-lite:jar:3.2.1-fixed-2
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-common 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-common ---
+[INFO] com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT
+[INFO] +- org.slf4j:slf4j-api:jar:1.6.2:provided
+[INFO] +- commons-logging:commons-logging-api:jar:1.1:provided
+[INFO] +- log4j:log4j:jar:1.2.16:compile
+[INFO] +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] +- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:fastjson:jar:1.1.39:provided
+[INFO] +- org.jvnet.sorcerer:sorcerer-javac:jar:0.8:provided
+[INFO] +- cglib:cglib-nodep:jar:2.2:test
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-container 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-container ---
+[INFO] com.alibaba:dubbo-container:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-container-api 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-container-api ---
+[INFO] com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |  +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |  \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-container-spring 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-container-spring ---
+[INFO] com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  \- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |     +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |     \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-container-jetty 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-container-jetty ---
+[INFO] com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  \- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |     +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |     \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-container-log4j 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-container-log4j ---
+[INFO] com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  \- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |     +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |     \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-container-logback 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-container-logback ---
+[INFO] com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  \- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |     +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |     \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- ch.qos.logback:logback-classic:jar:1.0.6:provided
+[INFO] |  +- ch.qos.logback:logback-core:jar:1.0.6:provided
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.6.2:provided
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-remoting 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-remoting ---
+[INFO] com.alibaba:dubbo-remoting:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-remoting-api 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-remoting-api ---
+[INFO] com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-remoting-netty 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-remoting-netty ---
+[INFO] com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-remoting-mina 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-remoting-mina ---
+[INFO] com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- org.apache.mina:mina-core:jar:1.1.7:compile
+[INFO] +- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-remoting-grizzly 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-remoting-grizzly ---
+[INFO] com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- org.glassfish.grizzly:grizzly-core:jar:2.1.4:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-framework:jar:2.1.4:compile
+[INFO] |  |  \- org.glassfish.gmbal:gmbal-api-only:jar:3.0.0-b023:compile
+[INFO] |  |     \- org.glassfish.external:management-api:jar:3.0.0-b012:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-portunif:jar:2.1.4:compile
+[INFO] |  \- org.glassfish.grizzly:grizzly-rcm:jar:2.1.4:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-remoting-p2p 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-remoting-p2p ---
+[INFO] com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-remoting-http 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-remoting-http ---
+[INFO] com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |  +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |  \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-remoting-zookeeper 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-remoting-zookeeper ---
+[INFO] com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- org.apache.zookeeper:zookeeper:jar:3.3.3:compile
+[INFO] |  \- jline:jline:jar:0.9.94:compile
+[INFO] +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] +- com.netflix.curator:curator-framework:jar:1.1.16:compile
+[INFO] |  +- com.netflix.curator:curator-client:jar:1.1.16:compile
+[INFO] |  |  \- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] |  \- com.google.guava:guava:jar:11.0.1:compile
+[INFO] |     \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc ---
+[INFO] com.alibaba:dubbo-rpc:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-api 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-api ---
+[INFO] com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-default 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-default ---
+[INFO] com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:test
+[INFO] +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.6.2:test
+[INFO] +- org.apache.mina:mina-core:jar:1.1.7:test
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-injvm 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-injvm ---
+[INFO] com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-rmi 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-rmi ---
+[INFO] com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-hessian 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-hessian ---
+[INFO] com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |     +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |     \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- com.caucho:hessian:jar:4.0.7:compile
+[INFO] +- org.apache.httpcomponents:httpclient:jar:4.1.2:provided
+[INFO] |  +- org.apache.httpcomponents:httpcore:jar:4.1.2:provided
+[INFO] |  +- commons-logging:commons-logging:jar:1.1.1:provided
+[INFO] |  \- commons-codec:commons-codec:jar:1.4:provided
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-http 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-http ---
+[INFO] com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |     +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |     \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] +- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-webservice 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-webservice ---
+[INFO] com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |     +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |     \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- org.apache.cxf:cxf-rt-frontend-simple:jar:2.6.1:compile
+[INFO] |  +- org.apache.cxf:cxf-api:jar:2.6.1:compile
+[INFO] |  |  +- org.codehaus.woodstox:woodstox-core-asl:jar:4.1.2:runtime
+[INFO] |  |  |  \- org.codehaus.woodstox:stax2-api:jar:3.1.1:runtime
+[INFO] |  |  +- org.apache.ws.xmlschema:xmlschema-core:jar:2.0.2:compile
+[INFO] |  |  +- org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1:compile
+[INFO] |  |  \- wsdl4j:wsdl4j:jar:1.6.2:compile
+[INFO] |  +- org.apache.cxf:cxf-rt-core:jar:2.6.1:compile
+[INFO] |  |  \- com.sun.xml.bind:jaxb-impl:jar:2.1.13:compile
+[INFO] |  \- org.apache.cxf:cxf-rt-bindings-soap:jar:2.6.1:compile
+[INFO] |     \- org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.6.1:compile
+[INFO] +- org.apache.cxf:cxf-rt-transports-http:jar:2.6.1:compile
+[INFO] +- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-cluster 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-cluster ---
+[INFO] com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- org.apache.bsf:bsf-api:jar:3.1:provided
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-registry 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-registry ---
+[INFO] com.alibaba:dubbo-registry:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-registry-api 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-registry-api ---
+[INFO] com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-monitor 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-monitor ---
+[INFO] com.alibaba:dubbo-monitor:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-monitor-api 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-monitor-api ---
+[INFO] com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-filter 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-filter ---
+[INFO] com.alibaba:dubbo-filter:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-filter-validation 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-filter-validation ---
+[INFO] com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- javax.validation:validation-api:jar:1.0.0.GA:provided
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-filter-cache 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-filter-cache ---
+[INFO] com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- javax.cache:cache-api:jar:0.4:provided
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-registry-default 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-registry-default ---
+[INFO] com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |        +- log4j:log4j:jar:1.2.16:compile
+[INFO] |        +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |        \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:test
+[INFO] |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:test
+[INFO] +- org.apache.bsf:bsf-api:jar:3.1:test
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-monitor-default 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-monitor-default ---
+[INFO] com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |        +- log4j:log4j:jar:1.2.16:compile
+[INFO] |        +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |        \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:test
+[INFO] |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:test
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-registry-multicast 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-registry-multicast ---
+[INFO] com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |        +- log4j:log4j:jar:1.2.16:compile
+[INFO] |        +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |        \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-config 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-config ---
+[INFO] com.alibaba:dubbo-config:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-config-api 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-config-api ---
+[INFO] com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:test
+[INFO] |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:test
+[INFO] |     |  \- aopalliance:aopalliance:jar:1.0:test
+[INFO] |     +- org.springframework:spring-beans:jar:4.2.3.RELEASE:test
+[INFO] |     +- org.springframework:spring-core:jar:4.2.3.RELEASE:test
+[INFO] |     |  \- commons-logging:commons-logging:jar:1.2:test
+[INFO] |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:test
+[INFO] +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:test
+[INFO] +- javax.validation:validation-api:jar:1.0.0.GA:test
+[INFO] +- org.hibernate:hibernate-validator:jar:4.2.0.Final:test
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.6.2:test
+[INFO] +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:test
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-config-spring 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-config-spring ---
+[INFO] com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |     \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] +- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:test
+[INFO] |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:test
+[INFO] +- javax.validation:validation-api:jar:1.0.0.GA:test
+[INFO] +- org.hibernate:hibernate-validator:jar:4.2.0.Final:test
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.6.2:test
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-thrift 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-thrift ---
+[INFO] com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- org.apache.thrift:libthrift:jar:0.8.0:compile
+[INFO] |  +- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] |  +- commons-lang:commons-lang:jar:2.5:compile
+[INFO] |  +- org.apache.httpcomponents:httpclient:jar:4.1.2:compile
+[INFO] |  |  +- commons-logging:commons-logging:jar:1.1.1:compile
+[INFO] |  |  \- commons-codec:commons-codec:jar:1.4:compile
+[INFO] |  \- org.apache.httpcomponents:httpcore:jar:4.1.3:compile
+[INFO] +- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:test
+[INFO] |  +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:test
+[INFO] |  |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:test
+[INFO] |  |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:test
+[INFO] |  |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:test
+[INFO] +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:test
+[INFO] |  \- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:test
+[INFO] |     \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:test
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-memcached 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-memcached ---
+[INFO] com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.googlecode.xmemcached:xmemcached:jar:1.3.6:compile
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-rpc-redis 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-rpc-redis ---
+[INFO] com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- redis.clients:jedis:jar:2.1.0:provided
+[INFO] |  \- commons-pool:commons-pool:jar:1.5.5:provided
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-registry-zookeeper 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-registry-zookeeper ---
+[INFO] com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  +- org.apache.zookeeper:zookeeper:jar:3.3.3:compile
+[INFO] |  |  \- jline:jline:jar:0.9.94:compile
+[INFO] |  +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] |  \- com.netflix.curator:curator-framework:jar:1.1.16:compile
+[INFO] |     +- com.netflix.curator:curator-client:jar:1.1.16:compile
+[INFO] |     |  \- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] |     \- com.google.guava:guava:jar:11.0.1:compile
+[INFO] |        \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-registry-redis 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-registry-redis ---
+[INFO] com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |        +- log4j:log4j:jar:1.2.16:compile
+[INFO] |        +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |        \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- redis.clients:jedis:jar:2.1.0:provided
+[INFO] |  \- commons-pool:commons-pool:jar:1.5.5:provided
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo ---
+[INFO] com.alibaba:dubbo:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |     \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |     |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] +- com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-simple 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-simple ---
+[INFO] com.alibaba:dubbo-simple:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-registry-simple 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-registry-simple ---
+[INFO] com.alibaba:dubbo-registry-simple:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  |  |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  |     \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |     |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |  +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |  \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-monitor-simple 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-monitor-simple ---
+[INFO] com.alibaba:dubbo-monitor-simple:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  |  |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |     |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- jfree:jfreechart:jar:1.0.13:compile
+[INFO] |  \- jfree:jcommon:jar:1.0.16:compile
+[INFO] +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] +- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- org.apache.mina:mina-core:jar:1.1.7:compile
+[INFO] +- org.glassfish.grizzly:grizzly-core:jar:2.1.4:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-framework:jar:2.1.4:compile
+[INFO] |  |  \- org.glassfish.gmbal:gmbal-api-only:jar:3.0.0-b023:compile
+[INFO] |  |     \- org.glassfish.external:management-api:jar:3.0.0-b012:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-portunif:jar:2.1.4:compile
+[INFO] |  \- org.glassfish.grizzly:grizzly-rcm:jar:2.1.4:compile
+[INFO] +- org.apache.httpcomponents:httpclient:jar:4.1.2:compile
+[INFO] |  +- org.apache.httpcomponents:httpcore:jar:4.1.2:compile
+[INFO] |  +- commons-logging:commons-logging:jar:1.1.1:compile
+[INFO] |  \- commons-codec:commons-codec:jar:1.4:compile
+[INFO] +- com.alibaba:fastjson:jar:1.1.39:compile
+[INFO] +- com.thoughtworks.xstream:xstream:jar:1.4.1:compile
+[INFO] |  +- xmlpull:xmlpull:jar:1.1.3.1:compile
+[INFO] |  \- xpp3:xpp3_min:jar:1.1.4c:compile
+[INFO] +- org.apache.bsf:bsf-api:jar:3.1:compile
+[INFO] +- org.apache.zookeeper:zookeeper:jar:3.3.3:compile
+[INFO] |  \- jline:jline:jar:0.9.94:compile
+[INFO] +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] +- com.netflix.curator:curator-framework:jar:1.1.16:compile
+[INFO] |  +- com.netflix.curator:curator-client:jar:1.1.16:compile
+[INFO] |  \- com.google.guava:guava:jar:11.0.1:compile
+[INFO] |     \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] +- com.googlecode.xmemcached:xmemcached:jar:1.3.6:compile
+[INFO] +- org.apache.cxf:cxf-rt-frontend-simple:jar:2.6.1:compile
+[INFO] |  +- org.apache.cxf:cxf-api:jar:2.6.1:compile
+[INFO] |  |  +- org.codehaus.woodstox:woodstox-core-asl:jar:4.1.2:runtime
+[INFO] |  |  |  \- org.codehaus.woodstox:stax2-api:jar:3.1.1:runtime
+[INFO] |  |  +- org.apache.ws.xmlschema:xmlschema-core:jar:2.0.2:compile
+[INFO] |  |  +- org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1:compile
+[INFO] |  |  \- wsdl4j:wsdl4j:jar:1.6.2:compile
+[INFO] |  +- org.apache.cxf:cxf-rt-core:jar:2.6.1:compile
+[INFO] |  |  \- com.sun.xml.bind:jaxb-impl:jar:2.1.13:compile
+[INFO] |  \- org.apache.cxf:cxf-rt-bindings-soap:jar:2.6.1:compile
+[INFO] |     \- org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.6.1:compile
+[INFO] +- org.apache.cxf:cxf-rt-transports-http:jar:2.6.1:compile
+[INFO] +- org.apache.thrift:libthrift:jar:0.8.0:compile
+[INFO] |  \- commons-lang:commons-lang:jar:2.5:compile
+[INFO] +- com.caucho:hessian:jar:4.0.7:compile
+[INFO] +- javax.servlet:servlet-api:jar:2.5:compile
+[INFO] +- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |  +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |  \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- log4j:log4j:jar:1.2.16:compile
+[INFO] +- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] +- redis.clients:jedis:jar:2.1.0:compile
+[INFO] |  \- commons-pool:commons-pool:jar:1.5.5:compile
+[INFO] +- javax.validation:validation-api:jar:1.0.0.GA:compile
+[INFO] +- org.hibernate:hibernate-validator:jar:4.2.0.Final:compile
+[INFO] +- javax.cache:cache-api:jar:0.4:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-admin 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-orm/4.2.3.RELEASE/spring-orm-4.2.3.RELEASE.pom
+4/8 KB   8/8 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-orm/4.2.3.RELEASE/spring-orm-4.2.3.RELEASE.pom (8 KB at 90.5 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-orm/4.2.3.RELEASE/spring-orm-4.2.3.RELEASE.jar
+3/456 KB   7/456 KB   11/456 KB   14/456 KB   16/456 KB   20/456 KB   22/456 KB   23/456 KB   25/456 KB   29/456 KB   29/456 KB   32/456 KB   35/456 KB   36/456 KB   37/456 KB   39/456 KB   42/456 KB   44/456 KB   47/456 KB   50/456 KB   52/456 KB   53/456 KB   54/456 KB   56/456 KB   57/456 KB   60/456 KB   63/456 KB   64/456 KB   67/456 KB   68/456 KB   71/456 KB   74/456 KB   77/456 KB   80/456 KB   84/456 KB   84/456 KB   87/456 KB   89/456 KB   93/456 KB   95/456 KB   98/456 KB   101/456 KB   105/456 KB   105/456 KB   106/456 KB   110/456 KB   113/456 KB   117/456 KB   119/456 KB   122/456 KB   126/456 KB   130/456 KB   133/456 KB   137/456 KB   141/456 KB   143/456 KB   147/456 KB   147/456 KB   151/456 KB   153/456 KB   157/456 KB   161/456 KB   165/456 KB   168/456 KB   172/456 KB   176/456 KB   180/456 KB   184/456 KB   188/456 KB   192/456 KB   196/456 KB   200/456 KB   204/456 KB   205/456 KB   209/456 KB   210/456 KB   214/456 KB   215/456 KB   219/456 KB   223/456 KB   223/456 KB   227/456 KB   227/456 KB   231/456 KB   234/456 KB   236/456 KB   239/456 KB   241/456 KB   245/456 KB   246/456 KB   250/456 KB   251/456 KB   253/456 KB   257/456 KB   261/456 KB   265/456 KB   269/456 KB   269/456 KB   273/456 KB   277/456 KB   281/456 KB   281/456 KB   285/456 KB   286/456 KB   290/456 KB   292/456 KB   295/456 KB   299/456 KB   303/456 KB   307/456 KB   311/456 KB   315/456 KB   319/456 KB   323/456 KB   327/456 KB   331/456 KB   331/456 KB   335/456 KB   339/456 KB   341/456 KB   345/456 KB   345/456 KB   349/456 KB   353/456 KB   357/456 KB   361/456 KB   365/456 KB   369/456 KB   373/456 KB   377/456 KB   381/456 KB   383/456 KB   387/456 KB   391/456 KB   395/456 KB   399/456 KB   403/456 KB   407/456 KB   411/456 KB   413/456 KB   416/456 KB   420/456 KB   424/456 KB   427/456 KB   430/456 KB   434/456 KB   438/456 KB   442/456 KB   446/456 KB   450/456 KB   454/456 KB   456/456 KB                Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-orm/4.2.3.RELEASE/spring-orm-4.2.3.RELEASE.jar (456 KB at 560.0 KB/sec)
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-admin ---
+[INFO] com.alibaba:dubbo-admin:war:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba.citrus:citrus-webx-all:jar:3.0.8:compile
+[INFO] |  +- org.apache.commons:commons-jexl:jar:2.0.1:compile
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:compile
+[INFO] |  +- dom4j:dom4j:jar:1.6.1:compile
+[INFO] |  +- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  +- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  +- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-context-support:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-tx:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-jdbc:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-orm:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] |  +- org.springframework:spring-webmvc:jar:4.2.3.RELEASE:compile
+[INFO] |  +- ecs:ecs:jar:1.4.2:compile
+[INFO] |  +- commons-codec:commons-codec:jar:1.3:compile
+[INFO] |  +- commons-fileupload:commons-fileupload:jar:1.2.1:compile
+[INFO] |  +- commons-io:commons-io:jar:1.4:compile
+[INFO] |  +- org.codehaus.groovy:groovy-all:jar:1.6.3:runtime
+[INFO] |  |  +- org.apache.ant:ant:jar:1.7.1:runtime
+[INFO] |  |  \- org.apache.ant:ant-launcher:jar:1.7.1:runtime
+[INFO] |  +- org.apache.velocity:velocity:jar:1.6.4:compile
+[INFO] |  +- commons-collections:commons-collections:jar:3.2.1:compile
+[INFO] |  +- commons-lang:commons-lang:jar:2.4:compile
+[INFO] |  +- org.freemarker:freemarker:jar:2.3.16:compile
+[INFO] |  +- oro:oro:jar:2.0.8:compile
+[INFO] |  \- org.slf4j:jcl-over-slf4j:jar:1.6.1:compile
+[INFO] +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] +- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- org.apache.mina:mina-core:jar:1.1.7:compile
+[INFO] +- org.glassfish.grizzly:grizzly-core:jar:2.1.4:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-framework:jar:2.1.4:compile
+[INFO] |  |  \- org.glassfish.gmbal:gmbal-api-only:jar:3.0.0-b023:compile
+[INFO] |  |     \- org.glassfish.external:management-api:jar:3.0.0-b012:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-portunif:jar:2.1.4:compile
+[INFO] |  \- org.glassfish.grizzly:grizzly-rcm:jar:2.1.4:compile
+[INFO] +- org.apache.httpcomponents:httpclient:jar:4.1.2:compile
+[INFO] |  +- org.apache.httpcomponents:httpcore:jar:4.1.2:compile
+[INFO] |  \- commons-logging:commons-logging:jar:1.1.1:compile
+[INFO] +- com.alibaba:fastjson:jar:1.1.39:compile
+[INFO] +- com.thoughtworks.xstream:xstream:jar:1.4.1:compile
+[INFO] |  +- xmlpull:xmlpull:jar:1.1.3.1:compile
+[INFO] |  \- xpp3:xpp3_min:jar:1.1.4c:compile
+[INFO] +- org.apache.bsf:bsf-api:jar:3.1:compile
+[INFO] +- org.apache.zookeeper:zookeeper:jar:3.3.3:compile
+[INFO] |  \- jline:jline:jar:0.9.94:compile
+[INFO] +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] +- com.netflix.curator:curator-framework:jar:1.1.16:compile
+[INFO] |  +- com.netflix.curator:curator-client:jar:1.1.16:compile
+[INFO] |  \- com.google.guava:guava:jar:11.0.1:compile
+[INFO] |     \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] +- com.googlecode.xmemcached:xmemcached:jar:1.3.6:compile
+[INFO] +- org.apache.thrift:libthrift:jar:0.8.0:compile
+[INFO] +- com.caucho:hessian:jar:4.0.7:compile
+[INFO] +- javax.servlet:servlet-api:jar:2.5:provided
+[INFO] +- log4j:log4j:jar:1.2.16:compile
+[INFO] +- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] +- org.slf4j:slf4j-log4j12:jar:1.6.2:compile
+[INFO] +- redis.clients:jedis:jar:2.1.0:compile
+[INFO] |  \- commons-pool:commons-pool:jar:1.5.5:compile
+[INFO] +- javax.validation:validation-api:jar:1.0.0.GA:compile
+[INFO] +- org.hibernate:hibernate-validator:jar:4.2.0.Final:compile
+[INFO] +- javax.cache:cache-api:jar:0.4:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-demo 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-demo ---
+[INFO] com.alibaba:dubbo-demo:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-demo-api 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-demo-api ---
+[INFO] com.alibaba:dubbo-demo-api:jar:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-demo-provider 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-demo-provider ---
+[INFO] com.alibaba:dubbo-demo-provider:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-demo-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  |  |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |     |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] +- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- org.apache.mina:mina-core:jar:1.1.7:compile
+[INFO] +- org.glassfish.grizzly:grizzly-core:jar:2.1.4:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-framework:jar:2.1.4:compile
+[INFO] |  |  \- org.glassfish.gmbal:gmbal-api-only:jar:3.0.0-b023:compile
+[INFO] |  |     \- org.glassfish.external:management-api:jar:3.0.0-b012:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-portunif:jar:2.1.4:compile
+[INFO] |  \- org.glassfish.grizzly:grizzly-rcm:jar:2.1.4:compile
+[INFO] +- org.apache.httpcomponents:httpclient:jar:4.1.2:compile
+[INFO] |  +- org.apache.httpcomponents:httpcore:jar:4.1.2:compile
+[INFO] |  +- commons-logging:commons-logging:jar:1.1.1:compile
+[INFO] |  \- commons-codec:commons-codec:jar:1.4:compile
+[INFO] +- com.alibaba:fastjson:jar:1.1.39:compile
+[INFO] +- com.thoughtworks.xstream:xstream:jar:1.4.1:compile
+[INFO] |  +- xmlpull:xmlpull:jar:1.1.3.1:compile
+[INFO] |  \- xpp3:xpp3_min:jar:1.1.4c:compile
+[INFO] +- org.apache.bsf:bsf-api:jar:3.1:compile
+[INFO] +- org.apache.zookeeper:zookeeper:jar:3.3.3:compile
+[INFO] |  \- jline:jline:jar:0.9.94:compile
+[INFO] +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] +- com.netflix.curator:curator-framework:jar:1.1.16:compile
+[INFO] |  +- com.netflix.curator:curator-client:jar:1.1.16:compile
+[INFO] |  \- com.google.guava:guava:jar:11.0.1:compile
+[INFO] |     \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] +- com.googlecode.xmemcached:xmemcached:jar:1.3.6:compile
+[INFO] +- org.apache.cxf:cxf-rt-frontend-simple:jar:2.6.1:compile
+[INFO] |  +- org.apache.cxf:cxf-api:jar:2.6.1:compile
+[INFO] |  |  +- org.codehaus.woodstox:woodstox-core-asl:jar:4.1.2:runtime
+[INFO] |  |  |  \- org.codehaus.woodstox:stax2-api:jar:3.1.1:runtime
+[INFO] |  |  +- org.apache.ws.xmlschema:xmlschema-core:jar:2.0.2:compile
+[INFO] |  |  +- org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1:compile
+[INFO] |  |  \- wsdl4j:wsdl4j:jar:1.6.2:compile
+[INFO] |  +- org.apache.cxf:cxf-rt-core:jar:2.6.1:compile
+[INFO] |  |  \- com.sun.xml.bind:jaxb-impl:jar:2.1.13:compile
+[INFO] |  \- org.apache.cxf:cxf-rt-bindings-soap:jar:2.6.1:compile
+[INFO] |     \- org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.6.1:compile
+[INFO] +- org.apache.cxf:cxf-rt-transports-http:jar:2.6.1:compile
+[INFO] +- org.apache.thrift:libthrift:jar:0.8.0:compile
+[INFO] |  \- commons-lang:commons-lang:jar:2.5:compile
+[INFO] +- com.caucho:hessian:jar:4.0.7:compile
+[INFO] +- javax.servlet:servlet-api:jar:2.5:compile
+[INFO] +- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |  +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |  \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- log4j:log4j:jar:1.2.16:compile
+[INFO] +- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] +- redis.clients:jedis:jar:2.1.0:compile
+[INFO] |  \- commons-pool:commons-pool:jar:1.5.5:compile
+[INFO] +- javax.validation:validation-api:jar:1.0.0.GA:compile
+[INFO] +- org.hibernate:hibernate-validator:jar:4.2.0.Final:compile
+[INFO] +- javax.cache:cache-api:jar:0.4:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-demo-consumer 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-demo-consumer ---
+[INFO] com.alibaba:dubbo-demo-consumer:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-demo-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  |  |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |     |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] +- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- org.apache.mina:mina-core:jar:1.1.7:compile
+[INFO] +- org.glassfish.grizzly:grizzly-core:jar:2.1.4:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-framework:jar:2.1.4:compile
+[INFO] |  |  \- org.glassfish.gmbal:gmbal-api-only:jar:3.0.0-b023:compile
+[INFO] |  |     \- org.glassfish.external:management-api:jar:3.0.0-b012:compile
+[INFO] |  +- org.glassfish.grizzly:grizzly-portunif:jar:2.1.4:compile
+[INFO] |  \- org.glassfish.grizzly:grizzly-rcm:jar:2.1.4:compile
+[INFO] +- org.apache.httpcomponents:httpclient:jar:4.1.2:compile
+[INFO] |  +- org.apache.httpcomponents:httpcore:jar:4.1.2:compile
+[INFO] |  +- commons-logging:commons-logging:jar:1.1.1:compile
+[INFO] |  \- commons-codec:commons-codec:jar:1.4:compile
+[INFO] +- com.alibaba:fastjson:jar:1.1.39:compile
+[INFO] +- com.thoughtworks.xstream:xstream:jar:1.4.1:compile
+[INFO] |  +- xmlpull:xmlpull:jar:1.1.3.1:compile
+[INFO] |  \- xpp3:xpp3_min:jar:1.1.4c:compile
+[INFO] +- org.apache.bsf:bsf-api:jar:3.1:compile
+[INFO] +- org.apache.zookeeper:zookeeper:jar:3.3.3:compile
+[INFO] |  \- jline:jline:jar:0.9.94:compile
+[INFO] +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] +- com.netflix.curator:curator-framework:jar:1.1.16:compile
+[INFO] |  +- com.netflix.curator:curator-client:jar:1.1.16:compile
+[INFO] |  \- com.google.guava:guava:jar:11.0.1:compile
+[INFO] |     \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] +- com.googlecode.xmemcached:xmemcached:jar:1.3.6:compile
+[INFO] +- org.apache.cxf:cxf-rt-frontend-simple:jar:2.6.1:compile
+[INFO] |  +- org.apache.cxf:cxf-api:jar:2.6.1:compile
+[INFO] |  |  +- org.codehaus.woodstox:woodstox-core-asl:jar:4.1.2:runtime
+[INFO] |  |  |  \- org.codehaus.woodstox:stax2-api:jar:3.1.1:runtime
+[INFO] |  |  +- org.apache.ws.xmlschema:xmlschema-core:jar:2.0.2:compile
+[INFO] |  |  +- org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1:compile
+[INFO] |  |  \- wsdl4j:wsdl4j:jar:1.6.2:compile
+[INFO] |  +- org.apache.cxf:cxf-rt-core:jar:2.6.1:compile
+[INFO] |  |  \- com.sun.xml.bind:jaxb-impl:jar:2.1.13:compile
+[INFO] |  \- org.apache.cxf:cxf-rt-bindings-soap:jar:2.6.1:compile
+[INFO] |     \- org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.6.1:compile
+[INFO] +- org.apache.cxf:cxf-rt-transports-http:jar:2.6.1:compile
+[INFO] +- org.apache.thrift:libthrift:jar:0.8.0:compile
+[INFO] |  \- commons-lang:commons-lang:jar:2.5:compile
+[INFO] +- com.caucho:hessian:jar:4.0.7:compile
+[INFO] +- javax.servlet:servlet-api:jar:2.5:compile
+[INFO] +- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |  +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |  \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- log4j:log4j:jar:1.2.16:compile
+[INFO] +- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] +- redis.clients:jedis:jar:2.1.0:compile
+[INFO] |  \- commons-pool:commons-pool:jar:1.5.5:compile
+[INFO] +- javax.validation:validation-api:jar:1.0.0.GA:compile
+[INFO] +- org.hibernate:hibernate-validator:jar:4.2.0.Final:compile
+[INFO] +- javax.cache:cache-api:jar:0.4:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-test 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-test ---
+[INFO] com.alibaba:dubbo-test:pom:2.5.4-SNAPSHOT
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-test-benchmark 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-test-benchmark ---
+[INFO] com.alibaba:dubbo-test-benchmark:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  |  |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  |     \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |     |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-test-compatibility 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-test-compatibility ---
+[INFO] com.alibaba:dubbo-test-compatibility:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  |  |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |  |     \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |  |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |  |     |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |     +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |     +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |     \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-jetty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-container-log4j:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-logback:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-test-integration 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-test-integration ---
+[INFO] com.alibaba:dubbo-test-integration:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |     \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |     |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- org.apache.mina:mina-core:jar:1.1.7:compile
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.glassfish.grizzly:grizzly-core:jar:2.1.4:compile
+[INFO] |     +- org.glassfish.grizzly:grizzly-framework:jar:2.1.4:compile
+[INFO] |     |  \- org.glassfish.gmbal:gmbal-api-only:jar:3.0.0-b023:compile
+[INFO] |     |     \- org.glassfish.external:management-api:jar:3.0.0-b012:compile
+[INFO] |     +- org.glassfish.grizzly:grizzly-portunif:jar:2.1.4:compile
+[INFO] |     \- org.glassfish.grizzly:grizzly-rcm:jar:2.1.4:compile
+[INFO] +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  \- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |     +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |     \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.caucho:hessian:jar:4.0.7:compile
+[INFO] +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- org.apache.zookeeper:zookeeper:jar:3.3.3:compile
+[INFO] |     |  \- jline:jline:jar:0.9.94:compile
+[INFO] |     +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] |     \- com.netflix.curator:curator-framework:jar:1.1.16:compile
+[INFO] |        +- com.netflix.curator:curator-client:jar:1.1.16:compile
+[INFO] |        \- com.google.guava:guava:jar:11.0.1:compile
+[INFO] |           \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- javax.validation:validation-api:jar:1.0.0.GA:compile
+[INFO] +- org.hibernate:hibernate-validator:jar:4.2.0.Final:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dubbo-test-examples 2.5.4-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ dubbo-test-examples ---
+[INFO] com.alibaba:dubbo-test-examples:jar:2.5.4-SNAPSHOT
+[INFO] +- com.alibaba:dubbo-config-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-registry-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  \- com.alibaba:dubbo-cluster:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-monitor-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-remoting-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-filter-validation:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-filter-cache:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-config-spring:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.2.3.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-core:jar:4.2.3.RELEASE:compile
+[INFO] |  |     \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  \- org.springframework:spring-context:jar:4.2.3.RELEASE:compile
+[INFO] |     +- org.springframework:spring-aop:jar:4.2.3.RELEASE:compile
+[INFO] |     |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |     \- org.springframework:spring-expression:jar:4.2.3.RELEASE:compile
+[INFO] +- com.alibaba:dubbo-remoting-netty:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- com.alibaba:dubbo-remoting-mina:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- org.apache.mina:mina-core:jar:1.1.7:compile
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.6.2:compile
+[INFO] +- com.alibaba:dubbo-remoting-grizzly:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.glassfish.grizzly:grizzly-core:jar:2.1.4:compile
+[INFO] |     +- org.glassfish.grizzly:grizzly-framework:jar:2.1.4:compile
+[INFO] |     |  \- org.glassfish.gmbal:gmbal-api-only:jar:3.0.0-b023:compile
+[INFO] |     |     \- org.glassfish.external:management-api:jar:3.0.0-b012:compile
+[INFO] |     +- org.glassfish.grizzly:grizzly-portunif:jar:2.1.4:compile
+[INFO] |     \- org.glassfish.grizzly:grizzly-rcm:jar:2.1.4:compile
+[INFO] +- com.alibaba:dubbo-remoting-p2p:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-remoting-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-common:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  |  +- org.javassist:javassist:jar:3.20.0-GA:compile
+[INFO] |  |  \- com.alibaba:hessian-lite:jar:3.2.1-fixed-2:compile
+[INFO] |  \- org.mortbay.jetty:jetty:jar:6.1.26:compile
+[INFO] |     +- org.mortbay.jetty:jetty-util:jar:6.1.26:compile
+[INFO] |     \- org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+[INFO] +- com.alibaba:dubbo-rpc-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- com.alibaba:dubbo-rpc-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-container-api:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-injvm:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-rmi:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-rpc-hessian:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.caucho:hessian:jar:4.0.7:compile
+[INFO] +- com.alibaba:dubbo-rpc-http:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.springframework:spring-web:jar:4.2.3.RELEASE:compile
+[INFO] +- com.alibaba:dubbo-rpc-webservice:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  +- org.apache.cxf:cxf-rt-frontend-simple:jar:2.6.1:compile
+[INFO] |  |  +- org.apache.cxf:cxf-api:jar:2.6.1:compile
+[INFO] |  |  |  +- org.codehaus.woodstox:woodstox-core-asl:jar:4.1.2:runtime
+[INFO] |  |  |  |  \- org.codehaus.woodstox:stax2-api:jar:3.1.1:runtime
+[INFO] |  |  |  +- org.apache.ws.xmlschema:xmlschema-core:jar:2.0.2:compile
+[INFO] |  |  |  +- org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1:compile
+[INFO] |  |  |  \- wsdl4j:wsdl4j:jar:1.6.2:compile
+[INFO] |  |  +- org.apache.cxf:cxf-rt-core:jar:2.6.1:compile
+[INFO] |  |  |  \- com.sun.xml.bind:jaxb-impl:jar:2.1.13:compile
+[INFO] |  |  \- org.apache.cxf:cxf-rt-bindings-soap:jar:2.6.1:compile
+[INFO] |  |     \- org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.6.1:compile
+[INFO] |  \- org.apache.cxf:cxf-rt-transports-http:jar:2.6.1:compile
+[INFO] +- com.alibaba:dubbo-rpc-thrift:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- org.apache.thrift:libthrift:jar:0.8.0:compile
+[INFO] |     +- commons-lang:commons-lang:jar:2.5:compile
+[INFO] |     +- org.apache.httpcomponents:httpclient:jar:4.1.2:compile
+[INFO] |     |  \- commons-codec:commons-codec:jar:1.4:compile
+[INFO] |     \- org.apache.httpcomponents:httpcore:jar:4.1.3:compile
+[INFO] +- com.alibaba:dubbo-rpc-memcached:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.googlecode.xmemcached:xmemcached:jar:1.3.6:compile
+[INFO] +- com.alibaba:dubbo-rpc-redis:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-multicast:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo-registry-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |  \- com.alibaba:dubbo-remoting-zookeeper:jar:2.5.4-SNAPSHOT:compile
+[INFO] |     +- org.apache.zookeeper:zookeeper:jar:3.3.3:compile
+[INFO] |     |  \- jline:jline:jar:0.9.94:compile
+[INFO] |     +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] |     \- com.netflix.curator:curator-framework:jar:1.1.16:compile
+[INFO] |        +- com.netflix.curator:curator-client:jar:1.1.16:compile
+[INFO] |        \- com.google.guava:guava:jar:11.0.1:compile
+[INFO] |           \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] +- com.alibaba:dubbo-monitor-default:jar:2.5.4-SNAPSHOT:compile
+[INFO] +- javax.validation:validation-api:jar:1.0.0.GA:compile
+[INFO] +- org.hibernate:hibernate-validator:jar:4.2.0.Final:compile
+[INFO] +- junit:junit:jar:4.10:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.1:test
+[INFO] +- org.easymock:easymock:jar:3.0:test
+[INFO] |  +- cglib:cglib-nodep:jar:2.2:test
+[INFO] |  \- org.objenesis:objenesis:jar:1.2:test
+[INFO] +- org.easymock:easymockclassextension:jar:3.0:test
+[INFO] \- com.googlecode.jmockit:jmockit:jar:0.999.8:test
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] dubbo-parent ....................................... SUCCESS [  0.704 s]
+[INFO] Hessian Lite(Alibaba embed version) ................ SUCCESS [  0.029 s]
+[INFO] dubbo-common ....................................... SUCCESS [  0.021 s]
+[INFO] dubbo-container .................................... SUCCESS [  0.009 s]
+[INFO] dubbo-container-api ................................ SUCCESS [  0.021 s]
+[INFO] dubbo-container-spring ............................. SUCCESS [  0.028 s]
+[INFO] dubbo-container-jetty .............................. SUCCESS [  0.010 s]
+[INFO] dubbo-container-log4j .............................. SUCCESS [  0.011 s]
+[INFO] dubbo-container-logback ............................ SUCCESS [  0.023 s]
+[INFO] dubbo-remoting ..................................... SUCCESS [  0.010 s]
+[INFO] dubbo-remoting-api ................................. SUCCESS [  0.010 s]
+[INFO] dubbo-remoting-netty ............................... SUCCESS [  0.014 s]
+[INFO] dubbo-remoting-mina ................................ SUCCESS [  0.014 s]
+[INFO] dubbo-remoting-grizzly ............................. SUCCESS [  0.030 s]
+[INFO] dubbo-remoting-p2p ................................. SUCCESS [  0.011 s]
+[INFO] dubbo-remoting-http ................................ SUCCESS [  0.012 s]
+[INFO] dubbo-remoting-zookeeper ........................... SUCCESS [  0.024 s]
+[INFO] dubbo-rpc .......................................... SUCCESS [  0.007 s]
+[INFO] dubbo-rpc-api ...................................... SUCCESS [  0.007 s]
+[INFO] dubbo-rpc-default .................................. SUCCESS [  0.016 s]
+[INFO] dubbo-rpc-injvm .................................... SUCCESS [  0.008 s]
+[INFO] dubbo-rpc-rmi ...................................... SUCCESS [  0.011 s]
+[INFO] dubbo-rpc-hessian .................................. SUCCESS [  0.025 s]
+[INFO] dubbo-rpc-http ..................................... SUCCESS [  0.014 s]
+[INFO] dubbo-rpc-webservice ............................... SUCCESS [  0.054 s]
+[INFO] dubbo-cluster ...................................... SUCCESS [  0.011 s]
+[INFO] dubbo-registry ..................................... SUCCESS [  0.006 s]
+[INFO] dubbo-registry-api ................................. SUCCESS [  0.009 s]
+[INFO] dubbo-monitor ...................................... SUCCESS [  0.007 s]
+[INFO] dubbo-monitor-api .................................. SUCCESS [  0.007 s]
+[INFO] dubbo-filter ....................................... SUCCESS [  0.011 s]
+[INFO] dubbo-filter-validation ............................ SUCCESS [  0.012 s]
+[INFO] dubbo-filter-cache ................................. SUCCESS [  0.009 s]
+[INFO] dubbo-registry-default ............................. SUCCESS [  0.014 s]
+[INFO] dubbo-monitor-default .............................. SUCCESS [  0.012 s]
+[INFO] dubbo-registry-multicast ........................... SUCCESS [  0.011 s]
+[INFO] dubbo-config ....................................... SUCCESS [  0.008 s]
+[INFO] dubbo-config-api ................................... SUCCESS [  0.030 s]
+[INFO] dubbo-config-spring ................................ SUCCESS [  0.023 s]
+[INFO] dubbo-rpc-thrift ................................... SUCCESS [  0.029 s]
+[INFO] dubbo-rpc-memcached ................................ SUCCESS [  0.021 s]
+[INFO] dubbo-rpc-redis .................................... SUCCESS [  0.011 s]
+[INFO] dubbo-registry-zookeeper ........................... SUCCESS [  0.021 s]
+[INFO] dubbo-registry-redis ............................... SUCCESS [  0.009 s]
+[INFO] dubbo .............................................. SUCCESS [  0.103 s]
+[INFO] dubbo-simple ....................................... SUCCESS [  0.007 s]
+[INFO] dubbo-registry-simple .............................. SUCCESS [  0.039 s]
+[INFO] dubbo-monitor-simple ............................... SUCCESS [  0.056 s]
+[INFO] dubbo-admin ........................................ SUCCESS [  0.978 s]
+[INFO] dubbo-demo ......................................... SUCCESS [  0.007 s]
+[INFO] dubbo-demo-api ..................................... SUCCESS [  0.016 s]
+[INFO] dubbo-demo-provider ................................ SUCCESS [  0.049 s]
+[INFO] dubbo-demo-consumer ................................ SUCCESS [  0.059 s]
+[INFO] dubbo-test ......................................... SUCCESS [  0.005 s]
+[INFO] dubbo-test-benchmark ............................... SUCCESS [  0.027 s]
+[INFO] dubbo-test-compatibility ........................... SUCCESS [  0.021 s]
+[INFO] dubbo-test-integration ............................. SUCCESS [  0.018 s]
+[INFO] dubbo-test-examples ................................ SUCCESS [  0.025 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.170 s
+[INFO] Finished at: 2017-01-11T10:21:20+08:00
+[INFO] Final Memory: 33M/270M
+[INFO] ------------------------------------------------------------------------
